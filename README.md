@@ -34,5 +34,8 @@ creando una experiencia de chat interactiva y accesible.
 ## Instalación
 
 1. Clona este repositorio
-2. Abre `index.html` en tu navegador
-3. ¡Comienza a chatear y escuchar!
+2. Abre la consola del proyecto y ejecuta
+``
+npm run dev
+``
+4. ¡Comienza a chatear y escuchar!
