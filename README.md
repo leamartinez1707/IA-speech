@@ -35,7 +35,9 @@ creando una experiencia de chat interactiva y accesible.
 
 1. Clona este repositorio
 2. Abre la consola del proyecto y ejecuta
+
 ``
+npm install
 npm run dev
 ``
 4. ¡Comienza a chatear y escuchar!
