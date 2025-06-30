@@ -1,0 +1,31 @@
+{
+  "name": "openaitranslate",
+  "version": "1.0.0",
+  "description": "Traductor de texton OpenAi API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leamartinez1707/IA-traduccion.git"
+  },
+  "author": "leandro martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leamartinez1707/IA-traduccion/issues"
+  },
+  "homepage": "https://github.com/leamartinez1707/IA-traduccion#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
